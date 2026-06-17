@@ -1,56 +1,64 @@
 <div align="center">
 
-```txt
-I'm Arleen Kaur Teerthy
+<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
 
-A software engineer and AI/ML enthusiast building intelligent, scalable applications.
-```
+# Hi 👋, I'm Arleen Kaur Teerthy
+
+### Software Engineer | AI/ML Engineer | Arizona State University
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="60%">
+## 👩‍💻 About Me
 
-🔭 I’m currently working on AI/ML projects, RAG systems, and scalable applications
+- 🎓 BS Computer Science @ Arizona State University
+- 🤖 Interested in AI, Machine Learning, LLMs, and RAG Systems
+- 🚀 Building AI-powered products and scalable applications
+- 💼 Looking for Software Engineering & AI/ML opportunities
+- 📫 Reach me: **arleenkaur02@gmail.com**
 
-🌱 Fields of Interest: AI/ML, LLMs, NLP, RAG & Distributed Systems
+---
 
-📫 How to reach me: **arleenkaur02@gmail.com**
+## 🛠️ Tech Stack
 
-<a href="https://arleenkaur02.github.io/portfolio/">Check out my Portfolio Website here</a>
+<div align="center">
 
-</td>
-<td width="40%" align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,fastapi" />
 
-<img src="./assets/deployment-script.png" width="360"/>
+<br><br>
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongodb,postgresql,git,github,vscode,linux" />
 
-## Languages and Tools:
+</div>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,go,js,ts,react,rust" />
-</p>
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,github,aws,gcp,kafka,kubernetes,linux,mongodb" />
-</p>
+## 📌 Featured Projects
 
-## Connect with me:
+### 🚀 AidBridge
+AI-powered nonprofit case management platform.
 
-<p align="left">
+### 📄 Smart Doc QA
+RAG-powered document Q&A system built with FastAPI, LangChain, Groq and Pinecone.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and experience.
+
+---
+
+## ❤️ Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/arleenkaurteerthy/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://arleenkaur02.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 </p>
