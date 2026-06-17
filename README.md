@@ -21,7 +21,7 @@
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,fastapi" />
 
