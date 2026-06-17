@@ -1,35 +1,64 @@
-<h1 align="center">Hi 👋, I'm Arleen Kaur Teerthy</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer | AI/ML Engineer | ASU</h3>
+<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+
+# Hi 👋, I'm Arleen Kaur Teerthy
+
+### Software Engineer | AI/ML Engineer | Arizona State University
+
+</div>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 BS Computer Science @ Arizona State University
 - 🤖 Interested in AI, Machine Learning, LLMs, and RAG Systems
 - 🚀 Building AI-powered products and scalable applications
 - 💼 Looking for Software Engineering & AI/ML opportunities
+- 📫 Reach me: **arleenkaur02@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,fastapi,aws,docker,kubernetes,mongodb,postgresql,git,github,vscode,linux" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,fastapi" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongodb,postgresql,git,github,vscode,linux" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 AidBridge
+AI-powered nonprofit case management platform.
+
+### 📄 Smart Doc QA
+RAG-powered document Q&A system built with FastAPI, LangChain, Groq and Pinecone.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and experience.
+
+---
+
+## ❤️ Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/arleenkaurteerthy/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://arleenkaur02.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
-
----
-
-### 📌 Featured Projects
-
-- AidBridge
-- Smart Doc QA
-- Portfolio Website
-
----
-
-### 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/arleenkaurteerthy/
-- Portfolio: https://arleenkaur02.github.io/portfolio/
