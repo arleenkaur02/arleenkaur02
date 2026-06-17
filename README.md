@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
 
 # Hi 👋, I'm Arleen Kaur Teerthy
 
@@ -20,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -34,20 +33,7 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🚀 AidBridge
-AI-powered nonprofit case management platform.
-
-### 📄 Smart Doc QA
-RAG-powered document Q&A system built with FastAPI, LangChain, Groq and Pinecone.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and experience.
-
----
-
-## ❤️ Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -56,9 +42,4 @@ Personal portfolio showcasing projects and experience.
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://arleenkaur02.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 </p>
