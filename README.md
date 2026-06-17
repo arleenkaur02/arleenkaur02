@@ -15,7 +15,7 @@
 - 🤖 Interested in AI, Machine Learning, LLMs, and RAG Systems
 - 🚀 Building AI-powered products and scalable applications
 - 💼 Looking for Software Engineering & AI/ML opportunities
-- 📫 Reach me: **arleenkaur02@gmail.com**
+- 📫 Reach me: **arleenkaurteerthy@gmail.com**
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/arleenkaurteerthy/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
