@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi 👋, I'm Arleen Teerthy
+# Hi 👋, I'm Arleen Kaur Teerthy
 
 ### Software Engineer | AI/ML Engineer | Arizona State University
 
